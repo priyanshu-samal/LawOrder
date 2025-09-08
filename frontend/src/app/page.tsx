@@ -1,6 +1,6 @@
 "use client";
 
-import { useUser } from '@auth0/nextjs-auth0/client';
+import { useUser } from '@auth0/nextjs-auth0';
 import { Box, Button, Container, Heading, Text, VStack } from '@chakra-ui/react';
 import Link from 'next/link';
 
